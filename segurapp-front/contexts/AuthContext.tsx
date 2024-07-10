@@ -26,9 +26,6 @@
 //   login: async () => false,
 //   logout: async () => {},
 // });
-
-// export const useAuth = () => useContext(AuthContext);
-
 // export const AuthProvider: React.FC = ({ children }) => {
 //   const [user, setUser] = useState<User | null>(null);
 //   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
